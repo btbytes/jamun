@@ -1,8 +1,14 @@
+# Jamun
+
+Blogging for one.
+
+----
+
 ```
-npm install
-npm run dev
+bun i
+bun run dev
 ```
 
 ```
-npm run deploy
+bun run deploy
 ```
